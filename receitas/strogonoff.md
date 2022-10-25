@@ -1,6 +1,5 @@
 # Strogonoff de Frango
 
-*Negrito* _itálico_ 
 
 ### Ingredientes
 
