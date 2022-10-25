@@ -1,6 +1,5 @@
 # Strogonoff de Frango
 
-*Negrito* _itálico_ 
 
 ### Ingredientes
 
@@ -36,6 +35,6 @@
 
 - Acrescente o purê de tomate, a mostarda e o ketchup, misture bem. Abaixe o fogo, deixe por cerca de 5 minutos, com a frigideira tampada.
 
-- Incorpore delicadamente o NESTLÉ Creme de Leite e retire do fogo antes de ferver.
+- Incorpore delicadamente o creme de leite e retire do fogo antes de ferver.
 
 - Sirva com arroz branco.
